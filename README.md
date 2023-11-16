@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on Mediease  a Predictive healthcare system  
   
 
-- 🌱 I’m currently learning Node and React  
+- 🌱 I’m currently learning Postgresql  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Django and Python related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -91,6 +91,9 @@
 <a href="https://www.linkedin.com/in/SRS0518" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+  <a href="https://leetcode.com/S_RISHINARAYAN/" target="_blank">
+<img src=https://img.shields.io/badge/dynamic/json?style=for-the badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow = for-the-badge&logo=Leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>  
+</div> 
   
 <br/>
