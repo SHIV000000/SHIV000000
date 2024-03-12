@@ -1,5 +1,4 @@
-![Local Image](images/aboutme.jpg)
-![Example Image](https://ray.so/oquIG0Y)
+![Local Image](images/aboutme.png)
 
 
 # 💻 Tech Stack:
