@@ -16,7 +16,10 @@
 </a>  
 <a href="https://leetcode.com/S_RISHINARAYAN/" target="_blank">
 <img src=https://img.shields.io/badge/Leetcode-%231E772e.svg?&style=for-the-badge&logo=Leetcode&logoColor=white alt=Leetcode style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://twitter.com/S_RISHINARAYAN" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%231E772e.svg?&style=for-the-badge&logo=Leetcode&logoColor=white alt=Leetcode style="margin-bottom: 5px;" />
+</a> 
 </div> 
   
 <br/>
